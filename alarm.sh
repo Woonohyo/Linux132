@@ -1,4 +1,5 @@
-#!bin/bash
+#!/bin/bash
+echo "Input Number: "
 read timer
 
 while [ $timer -gt 0 ]
